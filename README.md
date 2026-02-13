@@ -2,24 +2,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1040,60:2d1b69,100:e63946&height=250&section=header&text=CHIRAG%20VERMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%E2%9A%93%20building%20genai%20systems%20that%20actually%20ship%20%E2%9A%93&descSize=16&descColor=e6edf3&descAlignY=52" width="100%"/>
-
-<img src="https://media.giphy.com/media/qjj4kcxMDJlqE/giphy.gif" width="180"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1040,60:2d1b69,100:e63946&height=200&section=header&text=CHIRAG%20VERMA&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=GenAI%20Engineer%20%C2%B7%20Co-Founder%20%C2%B7%20Databricks%20Certified&descSize=14&descColor=8b949e&descAlignY=55" width="100%"/>
 
 <br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=40&lines=I+don't+build+demos.+I+ship+systems.+%E2%9A%93;RAG+pipelines+%C2%B7+LLM+agents+%C2%B7+doc+intelligence;Databricks+Certified+GenAI+Engineer+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;from+zero+to+1%2C800%2B+users+%E2%80%94+co-founder+energy" alt="Typing SVG" /></a>
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/vkin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:verma.ch@northeastern.edu"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://chirag-verma-portfolio-01.web.app/"><img src="https://img.shields.io/badge/-Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/vkinnnnn"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vkin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:verma.ch@northeastern.edu"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://chirag-verma-portfolio-01.web.app/"><img src="https://img.shields.io/badge/-Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/vkinnnnn"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-Boston,%20MA-2d1b69?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=vkinnnnn&color=e63946&style=for-the-badge&label=NAKAMA+WHO+VISITED"/>
+
+<img src="https://komarev.com/ghpvc/?username=vkinnnnn&color=e63946&style=flat-square&label=visitors"/>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
