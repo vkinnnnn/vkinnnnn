@@ -1,23 +1,17 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  vkinnnnn/vkinnnnn — Drop as README.md in your profile repo    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+<!-- vkinnnnn/vkinnnnn — Drop as README.md in your profile repo -->
 
 <div align="center">
 
-<!-- ═══ ANIMATED HEADER — gradient inspired by One Piece sea/sky ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1040,60:2d1b69,100:e63946&height=250&section=header&text=CHIRAG%20VERMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%E2%9A%93%20building%20genai%20systems%20that%20actually%20ship%20%E2%9A%93&descSize=16&descColor=e6edf3&descAlignY=52&fontAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1040,60:2d1b69,100:e63946&height=250&section=header&text=CHIRAG%20VERMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=%E2%9A%93%20building%20genai%20systems%20that%20actually%20ship%20%E2%9A%93&descSize=16&descColor=e6edf3&descAlignY=52" width="100%"/>
 
-<!-- ═══ ONE PIECE GIF — Luffy coding energy ═══ -->
-<img src="https://media.giphy.com/media/qjj4kcxMDJlqE/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/qjj4kcxMDJlqE/giphy.gif" width="180"/>
 
 <br>
 
-<!-- ═══ TYPING SVG — Fira Code font, anime-inspired lines ═══ -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=%22I+don't+want+to+conquer+anything.+I+just+build+things.%22+%E2%80%94+vkin" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=%22I+don't+want+to+conquer+anything.+I+just+ship+things.%22+%E2%80%94+vkin" alt="Typing SVG" /></a>
 
 <br>
 
-<!-- ═══ SOCIAL LINKS ═══ -->
 <a href="https://www.linkedin.com/in/vkin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:verma.ch@northeastern.edu"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://chirag-verma-portfolio-01.web.app/"><img src="https://img.shields.io/badge/-Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -25,51 +19,41 @@
 <img src="https://img.shields.io/badge/-Boston,%20MA-2d1b69?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
-
 <img src="https://komarev.com/ghpvc/?username=vkinnnnn&color=e63946&style=for-the-badge&label=NAKAMA+WHO+VISITED"/>
-
 </div>
 
-<!-- ═══ ANIMATED WAVE DIVIDER ═══ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                  ABOUT ME                    -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### ⚓ About Me
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
 ```yaml
 name: "Chirag Verma"
 alias: "vkin"
 class: "GenAI Engineer"
-devil_fruit: "Ship-Ship no Mi (I ship everything to prod)"
+devil_fruit: "Ship-Ship no Mi"  # ships everything to prod
 
 currently:
   studying: "MS Data Analytics @ Northeastern (3.7 GPA)"
-  building: "RAG pipelines, LLM agents, doc intelligence tools"
-  co-founded: "Tripplin — motorcycle community, 0 → 1,800+ riders"
+  building: "RAG pipelines · LLM agents · doc intelligence"
+  co-founded: "Tripplin — 0 → 1,800+ motorcycle riders"
 
 philosophy: >
-  I don't build demos. I build systems with monitoring,
-  tests, and runbooks. The hard part is always the last
-  3% of accuracy while keeping latency under 2 seconds.
+  I don't build demos.
+  I build systems with monitoring, tests, and runbooks.
+  The hard part is the last 3% of accuracy
+  while keeping latency under 2 seconds.
 
 fun_facts:
-  - fine-tuned an LLM on financial terms so no sensitive data leaves the server
-  - built anomaly detection that caught equipment failures 2 days early
-  - 10,000+ people used something i built and 89% said it worked
+  - fine-tuned an LLM on financial terms (no data leaves the server)
+  - anomaly detection that caught failures 2 days early
+  - 400+ people used my job matcher and 89% said it worked
 ```
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              CERTIFICATION                   -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### 🏴‍☠️ Bounty Card
 
@@ -102,11 +86,7 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                TECH STACK                    -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### 🗡️ Arsenal
 
@@ -151,40 +131,52 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--             FEATURED PROJECTS                -->
-<!-- ═══════════════════════════════════════════ -->
+### 🚀 What I've Shipped
 
-### 🚀 Featured Projects
+<!-- me explaining my architecture to the team -->
+<div align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+<br>
+<i>me explaining my RAG pipeline architecture at 2am</i>
+</div>
+
+<br>
 
 | | |
 |---|---|
-| 📄 **[LoanQA](https://github.com/vkinnnnn/MLOps)** — Document Intelligence <br><br> Ran Google Document AI + AWS Textract side-by-side on messy loan PDFs. Picked the best extractor per section. Fine-tuned a local LLM so no sensitive data leaves the server. 200-question eval suite. <br><br> ✅ **98.5%** field accuracy <br> ✅ Hallucination **< 5%** <br> ✅ **87%** test coverage <br> ✅ FastAPI · Airflow · MLflow · Docker <br><br> `Python` `PyTorch` `LangChain` `Pinecone` `Pydantic` | 🎯 **[GiveMeJobs.AI](https://github.com/vkinnnnn/GiveMeJobs.AI)** — LLM Job Matching <br><br> 500+ job descriptions embedded in PGVector. Tool-calling agent pulls live salary data mid-conversation. Daily experiments on feature weights. Prompt guardrails for adversarial inputs. <br><br> 🚀 **10,000+** real users <br> 🚀 **89%** said "relevant" <br> 🚀 Latency **6s → 2s** <br> 🚀 Ranked · Cached · Monitored <br><br> `Next.js` `PGVector` `GPT-4` `Redis` `OpenAI` |
-| 🏍️ **[Tripplin](https://github.com/vkinnnnn/Tripplin)** — Co-Founded, 0→1800+ <br><br> Motorcycle rider community. Built the rec engine from scratch — collaborative filtering on behavior embeddings. Users who engaged with recs retained at 4x. Product, roadmap, go-to-market, everything. <br><br> 🏍️ **1,800+** riders from zero <br> 🏍️ **65%** DB query reduction <br> 🏍️ **4x** retention lift <br> 🏍️ **40%** better event matches <br><br> `React Native` `PostgreSQL` `Redis` `Firebase` | 📊 **More Projects** <br><br> 👁️ **[CelebMonitor](https://github.com/vkinnnnn/CelebMonitor)** — YOLOv8 celebrity recognition, transfer learning, real-time video streams <br><br> 📈 **[Customer Segmentation](https://github.com/vkinnnnn/Ecommerce-Customer-Segmentation)** — 500K transactions, RFM analysis, K-Means, 25% marketing ROI lift <br><br> 🤖 **[KIRO](https://github.com/vkinnnnn/KIRO)** — AI coding assistant with custom prompt engineering and IDE integration <br><br> `YOLOv8` `K-Means` `MLflow` `DVC` `GCP` |
+| 📄 **[LoanQA](https://github.com/vkinnnnn/MLOps)** — Document Intelligence <br><br> Ran Google Document AI + AWS Textract side-by-side on messy loan PDFs. Picked the best extractor per section. Fine-tuned a local LLM so no sensitive data leaves the server. 200-question eval suite. <br><br> ✅ **98.5%** field accuracy <br> ✅ Hallucination **< 5%** <br> ✅ **87%** test coverage <br> ✅ FastAPI · Airflow · MLflow · Docker <br><br> `Python` `PyTorch` `LangChain` `Pinecone` `Pydantic` | 🎯 **[GiveMeJobs.AI](https://github.com/vkinnnnn/GiveMeJobs.AI)** — LLM Job Matching <br><br> 500+ job descriptions embedded in PGVector. Tool-calling agent pulls live salary data mid-conversation. Daily experiments on feature weights. Prompt guardrails for adversarial inputs. <br><br> 🚀 **400+** real users <br> 🚀 **89%** said "relevant" <br> 🚀 Latency **6s → 2s** <br> 🚀 Ranked · Cached · Monitored <br><br> `Next.js` `PGVector` `GPT-4` `Redis` `OpenAI` |
+| 🏍️ **[Tripplin](https://github.com/vkinnnnn/Tripplin)** — Co-Founded, 0→1800+ <br><br> Motorcycle rider community. Built the rec engine from scratch — collaborative filtering on behavior embeddings. Users who engaged with recs retained at 4x. Product, roadmap, go-to-market, everything. <br><br> 🏍️ **1,800+** riders from zero <br> 🏍️ **65%** DB query reduction <br> 🏍️ **4x** retention lift <br> 🏍️ **40%** better event matches <br><br> `React Native` `PostgreSQL` `Redis` `Firebase` | 📊 **More in the lab** <br><br> 👁️ **[CelebMonitor](https://github.com/vkinnnnn/CelebMonitor)** — YOLOv8 celebrity recognition, transfer learning, real-time video <br><br> 📈 **[Customer Segmentation](https://github.com/vkinnnnn/Ecommerce-Customer-Segmentation)** — 500K txns, RFM, K-Means, 25% ROI lift <br><br> 🤖 **[KIRO](https://github.com/vkinnnnn/KIRO)** — AI coding assistant, custom prompt eng, IDE integration <br><br> `YOLOv8` `K-Means` `MLflow` `DVC` `GCP` |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- the classic -->
+<div align="center">
+<br>
+<img src="https://i.imgflip.com/65efzo.gif" width="260"/>
+<br>
+<i>deploying on friday? couldn't be me. (it was me.)</i>
+<br><br>
+</div>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                EXPERIENCE                    -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### 💼 Crew Log
 
+<img align="right" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" width="180"/>
+
 <img src="https://img.shields.io/badge/Jan_2024_--_Oct_2025-Co--Founder_&_Dev-e63946?style=for-the-badge"/>
 
-**Tripplin** — Built a motorcycle rider platform from idea to 1,800+ users. Owned the rec engine, analytics, roadmap, and go-to-market. Startup life = debugging at midnight, presenting to partners at 9am.
+**Tripplin** — Built a motorcycle rider platform from idea → 1,800+ users. Owned the rec engine, analytics, roadmap, and GTM. Startup life = debugging at midnight, presenting to partners at 9am.
 
 <img src="https://img.shields.io/badge/Feb_2024_--_May_2024-Database_Analyst-2d1b69?style=for-the-badge"/>
 
-**SatsFactoryTechserve** — 15 data sources, Excel sheets everywhere, 4 hours of manual reports every morning. I built the pipelines and dashboards that fixed it. Anomaly detection that caught failures 2 days early. Downtime dropped 28%.
+**SatsFactoryTechserve** — 15 data sources. Excel sheets everywhere. 4 hours of manual reports every morning. I built the pipelines and dashboards that fixed it. Anomaly detection that caught failures 2 days early. Downtime dropped 28%.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br clear="right"/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                EDUCATION                     -->
-<!-- ═══════════════════════════════════════════ -->
+> *"Walked into a room where nobody spoke Python. Walked out with a working anomaly detection model."*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### 🎓 Training Arc
 
@@ -193,11 +185,14 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 | 🟣 | **M.S. Data Analytics Engineering** (3.7 GPA) | Northeastern University, Boston | 2024 – 2026 |
 | 🔵 | **B.Tech Computer Science Engineering** | JSS Academy, Bangalore | 2019 – 2023 |
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- the truth about grad school -->
+<div align="center">
+<img src="https://media.giphy.com/media/WRQBXSCnEFJIuxktnw/giphy.gif" width="200"/>
+<br>
+<i>me reading research papers at 3am vs me writing production code at 3am</i>
+</div>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              GITHUB STATS                    -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 ### 📊 Stats
 
@@ -212,14 +207,11 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              CONTRIBUTION SNAKE              -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 <div align="center">
 
+<!-- snake eating contributions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vkinnnnn/vkinnnnn/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vkinnnnn/vkinnnnn/output/github-snake.svg" />
@@ -228,11 +220,7 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════ -->
-<!--                 CONNECT                      -->
-<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:2d1b69,100:e63946&height=2" width="100%"/>
 
 <div align="center">
 
@@ -246,11 +234,12 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 
 <br><br>
 
-<img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="150"/>
+<img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="140"/>
+
+<br>
 
 *"The one who ships it... is the Pirate King."*
 
 </div>
 
-<!-- ═══ FOOTER WAVE ═══ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63946,50:2d1b69,100:0d1117&height=120&section=footer"/>
