@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=700&height=40&lines=%22I+don't+want+to+conquer+anything.+I+just+ship+things.%22+%E2%80%94+vkin" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=40&lines=I+don't+build+demos.+I+ship+systems.+%E2%9A%93;RAG+pipelines+%C2%B7+LLM+agents+%C2%B7+doc+intelligence;Databricks+Certified+GenAI+Engineer+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;from+zero+to+1%2C800%2B+users+%E2%80%94+co-founder+energy" alt="Typing SVG" /></a>
 
 <br>
 
