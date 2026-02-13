@@ -149,12 +149,12 @@ RAG Applications · LLM Chains · Vector Search · Model Serving · MLflow · Un
 | 📄 **[LoanQA](https://github.com/vkinnnnn/MLOps)** — Document Intelligence <br><br> Ran Google Document AI + AWS Textract side-by-side on messy loan PDFs. Picked the best extractor per section. Fine-tuned a local LLM so no sensitive data leaves the server. 200-question eval suite. <br><br> ✅ **98.5%** field accuracy <br> ✅ Hallucination **< 5%** <br> ✅ **87%** test coverage <br> ✅ FastAPI · Airflow · MLflow · Docker <br><br> `Python` `PyTorch` `LangChain` `Pinecone` `Pydantic` | 🎯 **[GiveMeJobs.AI](https://github.com/vkinnnnn/GiveMeJobs.AI)** — LLM Job Matching <br><br> 500+ job descriptions embedded in PGVector. Tool-calling agent pulls live salary data mid-conversation. Daily experiments on feature weights. Prompt guardrails for adversarial inputs. <br><br> 🚀 **400+** real users <br> 🚀 **89%** said "relevant" <br> 🚀 Latency **6s → 2s** <br> 🚀 Ranked · Cached · Monitored <br><br> `Next.js` `PGVector` `GPT-4` `Redis` `OpenAI` |
 | 🏍️ **[Tripplin](https://github.com/vkinnnnn/Tripplin)** — Co-Founded, 0→1800+ <br><br> Motorcycle rider community. Built the rec engine from scratch — collaborative filtering on behavior embeddings. Users who engaged with recs retained at 4x. Product, roadmap, go-to-market, everything. <br><br> 🏍️ **1,800+** riders from zero <br> 🏍️ **65%** DB query reduction <br> 🏍️ **4x** retention lift <br> 🏍️ **40%** better event matches <br><br> `React Native` `PostgreSQL` `Redis` `Firebase` | 📊 **More in the lab** <br><br> 👁️ **[CelebMonitor](https://github.com/vkinnnnn/CelebMonitor)** — YOLOv8 celebrity recognition, transfer learning, real-time video <br><br> 📈 **[Customer Segmentation](https://github.com/vkinnnnn/Ecommerce-Customer-Segmentation)** — 500K txns, RFM, K-Means, 25% ROI lift <br><br> 🤖 **[KIRO](https://github.com/vkinnnnn/KIRO)** — AI coding assistant, custom prompt eng, IDE integration <br><br> `YOLOv8` `K-Means` `MLflow` `DVC` `GCP` |
 
-<!-- the classic -->
+<!-- one piece moment -->
 <div align="center">
 <br>
-<img src="https://i.imgflip.com/65efzo.gif" width="260"/>
+<img src="https://media.giphy.com/media/DqhwoR9RHm3EA/giphy.gif" width="300"/>
 <br>
-<i>deploying on friday? couldn't be me. (it was me.)</i>
+<i>"i'm gonna be the king of production deploys" — me, every sprint</i>
 <br><br>
 </div>
 
