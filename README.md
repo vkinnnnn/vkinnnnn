@@ -13,7 +13,6 @@
 <a href="https://www.linkedin.com/in/vkin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:verma.ch@northeastern.edu"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://chirag-verma-portfolio-01.web.app/"><img src="https://img.shields.io/badge/-Portfolio-e63946?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/vkinnnnn"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-Boston,%20MA-2d1b69?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br><br>
